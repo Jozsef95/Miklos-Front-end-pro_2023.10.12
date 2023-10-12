@@ -3,9 +3,16 @@
 }
 
 body {
-    color: gray;
+    background-color: gray;
 }
 
 h1 {
-    color: bisque;
+    text-align: center;
+    color: rgb(32, 81, 100);
+    border: 3px solid rgb(65, 65, 88);
+}
+h4, p {
+    text-align: center;
+    font-size: 50px;
+    color: rgb(76, 75, 78);
 }
